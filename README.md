@@ -1,5 +1,5 @@
-# awesome-robotic-foundation-models
-A vast array of Multi-Modal Embodied Robotic Foundation Models!
+# awesome-robotic-foundation-models 🤖 🤖 🤖 
+A vast array of Multi-Modal Embodied Robotic Foundation Models we've worked on At Swarms! Join our team and let's democratize SOTA foundation models for robotics.
 
 # Models
 
