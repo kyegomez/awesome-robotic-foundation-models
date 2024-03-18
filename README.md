@@ -4,22 +4,20 @@ A vast array of Multi-Modal Embodied Robotic Foundation Models!
 # Models
 
 
-| Model Name              | Capabilities                                                                                                    | Multi-Modal | Model Type     | License         | Last Updated  |
-|-------------------------|-----------------------------------------------------------------------------------------------------------------|-------------|----------------|-----------------|---------------|
-| RT-X                    | Computer Vision, AI, Vision, Attention Model, Multimodal, Vision Transformer                                   | Yes         | Pytorch        | MIT License     | 3 days ago    |
-| VIMA                    | General Robot Manipulation with Multimodal Prompts                                                              | Yes         | Python         | MIT License     | Last week     |
-| SayCan                  | Grounding Language in Robotic Affordances                                                                       | No          | Python         | MIT License     | Last week     |
-| AutoRT                  | Large Scale Orchestration of Robotic Agents                                                                     | No          | Python         | MIT License     | Last week     |
-| Awesome-LLM-Robotics    | Comprehensive list for Robotics/RL using LLM/multi-modal models                                                 | Yes         | -              | BSD 3-Clause    | Oct 11, 2023  |
-| RoboCAT                 | Self-Improving Foundation Agent for Robotic Manipulation                                                        | No          | Python         | MIT License     | Sep 4, 2023   |
-| NeoCortex               | Foundation Model for Humanoid robots                                                                            | Yes         | Python         | MIT License     | Aug 25, 2023  |
-| CyberTron               | Suite of embodied multi-modal robotic transformers                                                              | Yes         | Python         | MIT License     | Aug 16, 2023  |
-| PALM-E                  | Embodied Multimodal Language Model, Diverse Joint Training across Language, Vision, Visual-Language Domains    | Yes         | Open Source    | -               | -             |
-| HRTX                    | Multi-Modal Multi-Embodied Hivemind-like Iteration of RTX-2                                                     | Yes         | -              | -               | -             |
-| RT1                     | Part of RT-X, Embodied Robotic Learning Datasets and Models                                                     | Yes         | Pytorch        | MIT License     | 3 days ago    |
-| RT2                     | New model translates vision and language into action                                                            | No          | -              | -               | -             |
-
-
+| Model Name              | Capabilities                                                                                                    | Industrial Use Cases                                                                              | Model Type     | License         | Production Metadata          |
+|-------------------------|-----------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|----------------|-----------------|-----------------------------|
+| RT-X                    | CV, AI, Vision, Attention Model, Multimodal, Vision Transformer                                                 | Autonomous Vehicles, Surveillance, Robotics, Human-Machine Interaction                            | Pytorch        | MIT License     | High performance, scalable   |
+| VIMA                    | General Robot Manipulation with Multimodal Prompts                                                              | Manufacturing, Logistics, Automated Assembly                                                      | Python         | MIT License     | Modular, adaptable           |
+| SayCan                  | Grounding Language in Robotic Affordances                                                                       | Service Robots, Assistive Technology                                                              | Python         | MIT License     | Easy integration             |
+| AutoRT                  | Large Scale Orchestration of Robotic Agents                                                                     | Fleet Management, Automation in Large Scale Industries                                            | Python         | MIT License     | Scalable, robust             |
+| Awesome-LLM-Robotics    | Comprehensive list for Robotics/RL using LLM/multi-modal models                                                 | Research and Development, Educational                                                             | -              | BSD 3-Clause    | Research-oriented            |
+| RoboCAT                 | Self-Improving Foundation Agent for Robotic Manipulation                                                        | Advanced Manufacturing, Precision Engineering                                                     | Python         | MIT License     | Self-learning capabilities   |
+| NeoCortex               | Foundation Model for Humanoid robots                                                                            | Healthcare, Elderly Care, Companion Robots                                                        | Python         | MIT License     | High adaptability            |
+| CyberTron               | Suite of embodied multi-modal robotic transformers                                                              | Robotics Simulation, Training, and Development                                                    | Python         | MIT License     | Plug and play, extensible    |
+| PALM-E                  | Embodied Multimodal Language Model, Diverse Joint Training across Language, Vision, Visual-Language Domains    | Education, Multimodal Interaction, Content Creation                                                | Open Source    | -               | Internet-scale training data |
+| HRTX                    | Multi-Modal Multi-Embodied Hivemind-like Iteration of RTX-2                                                     | Swarm Robotics, Collaborative Tasks in Unstructured Environments                                   | -              | -               | Distributed processing       |
+| RT1                     | Part of RT-X, Embodied Robotic Learning Datasets and Models                                                     | Robotics Learning, Simulation-Based Training                                                      | Pytorch        | MIT License     | Customizable, data-driven    |
+| RT2                     | Translates vision and language into action                                                                      | Human-Robot Interaction, Natural Language Processing in Robotics                                   | -              | -               | Intuitive interface          |
 
 
 ## 🫶 Contributions:
